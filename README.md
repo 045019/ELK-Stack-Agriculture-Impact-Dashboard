@@ -43,7 +43,7 @@ https://github.com/user-attachments/assets/59751780-6922-4d37-872d-bfa54a21d256
 
 ## **1. Introduction**
 
-This report presents an in-depth analysis of the impact of climate change, resource utilization, and adaptation strategies on global agriculture, based on data visualized using Kibana. The dataset provides key insights into agricultural practices, climate-related variables, and resource distribution across different regions and crop types. Through this analysis, we aim to uncover trends, identify areas for improvement, and offer actionable recommendations for enhancing agricultural resilience and sustainability.
+This report presents an in-depth analysis of the impact of climate change, resource utilization, and adaptation strategies on global agriculture based on data visualized using Kibana. The dataset provides key insights into agricultural practices, climate-related variables, and resource distribution across different regions and crop types. Through this analysis, we aim to uncover trends, identify areas for improvement, and offer actionable recommendations for enhancing agricultural resilience and sustainability.
 
 The dataset encompasses a variety of variables, including crop yields, pesticide use, climate conditions (temperature, precipitation, extreme weather events), and economic impacts, with a focus on regional variations and their corresponding agricultural outcomes.
 
@@ -118,8 +118,8 @@ The primary objectives of this analysis are as follows:
 
 The following insights are derived from the visualizations and key findings of the analysis:
 
-- *Adaptation Strategies*: Effective strategies like crop rotation and water management have led to higher economic stability in certain regions. These strategies should be scaled up, particularly in regions vulnerable to climate change.
-- *Resource Management*: High pesticide and fertilizer use in certain regions underscores the need for sustainable practices. Integrated pest management (IPM) and optimized fertilizer use are essential to reduce environmental impacts.
+- *Adaptation Strategies*: Effective strategies like crop rotation and water management have led to higher economic stability in certain regions. These strategies should be scaled up, particularly in areas vulnerable to climate change.
+- *Resource Management*: High pesticide and fertilizer use in certain regions underscores the need for sustainable practices. To reduce environmental impacts, integrated pest management (IPM) and optimized fertilizer use are essential.
 - *Irrigation Access*: Regions with better irrigation access have shown more resilience to climate variability. It is critical to invest in irrigation infrastructure, especially in areas facing water scarcity.
 - *Soil Health*: Improving soil health should be prioritized in regions with lower soil quality. Sustainable soil management practices can enhance crop yields and economic outcomes.
 
