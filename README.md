@@ -82,7 +82,7 @@ The primary objectives of this analysis are as follows:
 
 ### *3. CO₂ Emissions Over Time by Region*
 - *Key Visualization*: A bar chart showing CO₂ emissions by region over time.
-- *Insight: High-emission countries such as the **USA* and *China* experience larger economic losses, indicating a correlation between CO₂ emissions and agricultural vulnerability.
+- *Insight*: High-emission countries such as the **USA* and *China* experience larger economic losses, indicating a correlation between CO₂ emissions and agricultural vulnerability.
 
 ### *4. Frequency of Extreme Weather Events by Region and Crop Type*
 - *Key Visualization*: A heatmap correlating extreme weather events with crop types across regions.
