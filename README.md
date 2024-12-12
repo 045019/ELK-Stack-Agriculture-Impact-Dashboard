@@ -1,13 +1,13 @@
-# *Agricultural Impact Analysis: A Data-Driven Approach*
+# **Agricultural Impact Analysis: A Data-Driven Approach**
 
 This dashboard is created on *ELK Stack* with a Kaggle dataset streamed via Kibana.
 
-### *Contributing*
-This project is the result of a collaborative effort between [Jasleen Kaur Chadha](https://github.com/Jasleen045023), [Phalit Gupta](https://github.com/Phalit045040) and me, with valuable guidance from *Prof. Ashok Harnal*.
+### **Contributing**
+This project is the result of a collaborative effort between [Jasleen Kaur Chadha](https://github.com/Jasleen045023), [Phalit Gupta](https://github.com/Phalit045040) and me, with valuable guidance from **Prof. Ashok Harnal**.
 
 ---
 
-## *Table of Contents*
+## **Table of Contents**
 
 1. [Introduction](#1-introduction)  
 2. [Objectives](#2-objectives)  
@@ -28,7 +28,7 @@ This project is the result of a collaborative effort between [Jasleen Kaur Chadh
    
 ---
 
-## *Video Overview*
+## **Video Overview**
 
 For a detailed walkthrough of the dashboard and visualizations, please watch the video below:
 
@@ -41,7 +41,7 @@ https://github.com/user-attachments/assets/59751780-6922-4d37-872d-bfa54a21d256
 
 ---
 
-## *1. Introduction*
+## **1. Introduction**
 
 This report presents an in-depth analysis of the impact of climate change, resource utilization, and adaptation strategies on global agriculture, based on data visualized using Kibana. The dataset provides key insights into agricultural practices, climate-related variables, and resource distribution across different regions and crop types. Through this analysis, we aim to uncover trends, identify areas for improvement, and offer actionable recommendations for enhancing agricultural resilience and sustainability.
 
@@ -49,7 +49,7 @@ The dataset encompasses a variety of variables, including crop yields, pesticide
 
 ---
 
-## *2. Objectives*
+## **2. Objectives**
 
 The primary objectives of this analysis are as follows:
 
@@ -70,7 +70,7 @@ The primary objectives of this analysis are as follows:
 
 ---
 
-## *3. Key Findings*
+## **3. Key Findings**
 
 ### *1. Impact of Adaptation Strategies by Region*
 - *Key Visualization*: A table showing the economic impact of adaptation strategies such as crop rotation, water management, and drought-resistant crops across different regions.
@@ -78,7 +78,7 @@ The primary objectives of this analysis are as follows:
 
 ### *2. Economic Impact Distribution by Country*
 - *Key Visualization*: A pie chart illustrating the distribution of economic impact across countries.
-- *Insight: **USA* (21.54%) and *Australia* (17.54%) contribute the most to the total economic impact, highlighting their importance in global agriculture. Other countries like *India* and *Brazil* also contribute significantly, but face greater vulnerability to climate change.
+- *Insight: **USA* (21.54%) and *Australia* (17.54%) contribute the most to the total economic impact, highlighting their importance in global agriculture. Other countries like *India* and *Brazil* also contribute significantly, but face greater vulnrability to climate change.
 
 ### *3. CO₂ Emissions Over Time by Region*
 - *Key Visualization*: A bar chart showing CO₂ emissions by region over time.
@@ -114,7 +114,7 @@ The primary objectives of this analysis are as follows:
 
 ---
 
-## *4. Managerial Insights*
+## **4. Managerial Insights**
 
 The following insights are derived from the visualizations and key findings of the analysis:
 
@@ -125,15 +125,15 @@ The following insights are derived from the visualizations and key findings of t
 
 ---
 
-## *5. Conclusion*
+## **5. Conclusion**
 
-The findings of this analysis underscore the profound impact of climate change on agriculture, particularly in regions with low resilience to extreme weather events. Effective adaptation strategies, resource management, and improved irrigation access are crucial to enhancing agricultural sustainability. By promoting sustainable practices, improving soil health, and optimizing resource use, agricultural resilience can be significantly improved.
+The findings of this analysis underscore the profound impact of climate change on agriculture, particularly in regions with low resilience to extreme weather events. Effective adaptation strategies, resource management, and improved irrigation access are crucial to enhancing agricultural sustainability. Agricultural resilience can be significantly improved by promoting sustainable practices, improving soil health, and optimizing resource use.
 
-The insights provided in this report offer a comprehensive foundation for policymakers and agricultural stakeholders to make informed decisions that support sustainable agricultural practices and mitigate the impacts of climate change.
+The insights provided in this report offer a comprehensive foundation for policymakers and agricultural stakeholders to make informed decisions that support sustainable farming practices and mitigate the impacts of climate change.
 
 ---
 
-## *6. License*
+## **6. License**
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
