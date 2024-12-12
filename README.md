@@ -74,43 +74,43 @@ The primary objectives of this analysis are as follows:
 
 ### *1. Impact of Adaptation Strategies by Region*
 - *Key Visualization*: A table showing the economic impact of adaptation strategies such as crop rotation, water management, and drought-resistant crops across different regions.
-- *Insight*: Regions like **Queensland* and *Northeast* demonstrate significant economic impacts due to crop rotation and water management, which suggest the effectiveness of these strategies in improving agricultural stability.
+- *Insight*: Regions like *Queensland* and *Northeast* demonstrate significant economic impacts due to crop rotation and water management, which suggests the effectiveness of these strategies in improving agricultural stability.
 
 ### *2. Economic Impact Distribution by Country*
 - *Key Visualization*: A pie chart illustrating the distribution of economic impact across countries.
-- *Insight*: **USA* (21.54%) and *Australia* (17.54%) contribute the most to the total economic impact, highlighting their importance in global agriculture. Other countries like *India* and *Brazil* also contribute significantly, but face greater vulnrability to climate change.
+- *Insight*: *USA* (21.54%) and *Australia* (17.54%) contribute the most to the total economic impact, highlighting their importance in global agriculture. Other countries like *India* and *Brazil* also contribute significantly but face greater vulnerability to climate change.
 
 ### *3. CO₂ Emissions Over Time by Region*
 - *Key Visualization*: A bar chart showing CO₂ emissions by region over time.
-- *Insight*: High-emission countries such as the **USA* and *China* experience larger economic losses, indicating a correlation between CO₂ emissions and agricultural vulnerability.
+- *Insight*: High-emission countries such as the *USA* and *China* experience larger economic losses, indicating a correlation between CO₂ emissions and agricultural vulnerability.
 
 ### *4. Frequency of Extreme Weather Events by Region and Crop Type*
 - *Key Visualization*: A heatmap correlating extreme weather events with crop types across regions.
-- *Insight*: Crops like **Corn* and *Rice* in *Maharashtra* and *Pampas* face the highest frequency of extreme weather events, suggesting that these regions are more vulnerable to climate change.
+- *Insight*: Crops like *Corn* and *Rice* in *Maharashtra* and *Pampas* face the highest frequency of extreme weather events, suggesting that these regions are more vulnerable to climate change.
 
 ### *5. Pesticide Use by Region and Crop Type*
 - *Key Visualization*: A bar chart comparing pesticide use by crop type across regions.
-- *Insight*: Crops like **Fruits* and *Vegetables* in *South West* regions show higher pesticide use due to pest pressures. This highlights the need for more sustainable pest management practices in these regions.
+- *Insight*: Crops like *Fruits* and *Vegetables* in *South West* regions show higher pesticide use due to pest pressures. This highlights the need for more sustainable pest management practices in these regions.
 
 ### *6. Economic Impact by Country and Adaptation Strategies*
 - *Key Visualization*: A stacked bar chart showing economic impacts by country and adaptation strategies.
-- *Insight*: Strategies like **Drought-resistant crops* and *Water management* play a key role in maintaining agricultural productivity in countries such as the *USA* and *China*, emphasizing the need for strategic adaptation.
+- *Insight*: Strategies like *Drought-resistant crops* and *Water management* play a key role in maintaining agricultural productivity in countries such as the *USA* and *China*, emphasizing the need for strategic adaptation.
 
 ### *7. Fertilizer Use by Region*
 - *Key Visualization*: A region map showing fertilizer use by geographic location.
-- *Insight*: **South America* and *Asia* exhibit higher fertilizer use, suggesting a potential environmental impact. There is a clear need for optimized fertilizer use to reduce adverse effects on the environment.
+- *Insight*: *South America* and *Asia* exhibit higher fertilizer use, suggesting a potential environmental impact. There is a clear need for optimized fertilizer use to reduce adverse effects on the environment.
 
 ### *8. Crop Yield Trends by Type*
 - *Key Visualization*: A line chart showing crop yield trends for different crop types.
-- *Insight*: **Rice* and *Cotton* show consistent yield growth over time, while crops like *Soybeans* and *Wheat* experience more variability, indicating climate sensitivity.
+- *Insight*: *Rice* and *Cotton* show consistent yield growth over time, while crops like *Soybeans* and *Wheat* experience more variability, indicating climate sensitivity.
 
 ### *9. Soil Health and Precipitation by Region*
 - *Key Visualization*: A bar chart showing soil health and precipitation in different regions.
-- *Insight*: Regions with higher soil health scores, such as **West Bengal*, exhibit better crop performance, emphasizing the importance of sustainable soil management.
+- *Insight*: Regions with higher soil health scores, such as *West Bengal*, exhibit better crop performance, emphasizing the importance of sustainable soil management.
 
 ### *10. Irrigation Percentage by Region*
 - *Key Visualization*: A horizontal bar chart showing irrigation access by region.
-- *Insight*: Regions like **Northwest* and *Pampas* benefit from higher irrigation access, providing better resilience to extreme weather events.
+- *Insight*: Regions like *Northwest* and *Pampas* benefit from higher irrigation access, providing better resilience to extreme weather events.
 
 ---
 
